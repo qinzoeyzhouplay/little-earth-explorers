@@ -1,0 +1,153 @@
+{
+  "tutorial.tap": {
+    "t": "ほしを タッチしてね！",
+    "a": "assets/audio/ja/ui/tutorial_tap.mp3"
+  },
+  "creator.color": {
+    "t": "いろを えらぼう！",
+    "a": "assets/audio/ja/ui/creator_color.mp3"
+  },
+  "creator.hat": {
+    "t": "ぼうしを えらぼう！",
+    "a": "assets/audio/ja/ui/creator_hat.mp3"
+  },
+  "creator.buddy": {
+    "t": "ともだちを えらぼう！",
+    "a": "assets/audio/ja/ui/creator_buddy.mp3"
+  },
+  "map.where": {
+    "t": "どこへ いこうか？",
+    "a": "assets/audio/ja/ui/map_where.mp3"
+  },
+  "map.locked": {
+    "t": "もうすぐ あそべるよ！",
+    "a": "assets/audio/ja/ui/map_locked.mp3"
+  },
+  "chapter.pick": {
+    "t": "ゲームを えらぼう！",
+    "a": "assets/audio/ja/ui/chapter_pick.mp3"
+  },
+  "level.collect": {
+    "t": "ぜんぶ あつめよう！",
+    "a": "assets/audio/ja/ui/level_collect.mp3"
+  },
+  "level.listen": {
+    "t": "きいて タッチしよう！",
+    "a": "assets/audio/ja/ui/level_listen.mp3"
+  },
+  "level.think": {
+    "t": "かんがえて みよう！",
+    "a": "assets/audio/ja/ui/level_think.mp3"
+  },
+  "help.look": {
+    "t": "みて！これだよ。",
+    "a": "assets/audio/ja/ui/help_look.mp3"
+  },
+  "say.it": {
+    "t": "いえるかな？",
+    "a": "assets/audio/ja/ui/say_it.mp3"
+  },
+  "say.why": {
+    "t": "どうしてか おしえて！",
+    "a": "assets/audio/ja/ui/say_why.mp3"
+  },
+  "praise.great": {
+    "t": "よくできたね！",
+    "a": "assets/audio/ja/ui/praise_great.mp3"
+  },
+  "praise.think": {
+    "t": "いい かんがえだね！",
+    "a": "assets/audio/ja/ui/praise_think.mp3"
+  },
+  "reward.sticker": {
+    "t": "あたらしい シール！",
+    "a": "assets/audio/ja/ui/reward_sticker.mp3"
+  },
+  "levelup": {
+    "t": "レベルアップ！",
+    "a": "assets/audio/ja/ui/levelup.mp3"
+  },
+  "skill.jump": {
+    "t": "たかく ジャンプできるよ！",
+    "a": "assets/audio/ja/ui/skill_jump.mp3"
+  },
+  "skill.magnifier": {
+    "t": "むしめがねを ゲット！",
+    "a": "assets/audio/ja/ui/skill_magnifier.mp3"
+  },
+  "skill.fly": {
+    "t": "そらを とべるよ！",
+    "a": "assets/audio/ja/ui/skill_fly.mp3"
+  },
+  "stickers": {
+    "t": "シールちょう",
+    "a": "assets/audio/ja/ui/stickers.mp3"
+  },
+  "karaoke": {
+    "t": "いっしょに うたおう！",
+    "a": "assets/audio/ja/ui/karaoke.mp3"
+  },
+  "card.title": {
+    "t": "たんけんかカード",
+    "a": "assets/audio/ja/ui/card_title.mp3"
+  },
+  "sleepy": {
+    "t": "ねむく なっちゃった。また あした！",
+    "a": "assets/audio/ja/ui/sleepy.mp3"
+  },
+  "parent.gate": {
+    "t": "おとなの方へ：{a} + {b} は？"
+  },
+  "parent.minutes": {
+    "t": "休けいのお知らせ（分）"
+  },
+  "parent.language": {
+    "t": "案内の言語"
+  },
+  "parent.testReminder": {
+    "t": "テスト：1分後にお知らせを表示"
+  },
+  "parent.reset": {
+    "t": "この探検家を削除"
+  },
+  "parent.resetConfirm": {
+    "t": "もう一度タップで削除"
+  },
+  "parent.close": {
+    "t": "完了"
+  },
+  "parent.print": {
+    "t": "印刷"
+  },
+  "level.rap": {
+    "t": "きいて、えを タッチ！",
+    "a": "assets/audio/ja/ui/level_rap.mp3"
+  },
+  "collect.order": {
+    "t": "たいようから じゅんばんに！",
+    "a": "assets/audio/ja/ui/collect_order.mp3"
+  },
+  "parent.voice": {
+    "t": "ナレーションの声（タップで試聴）"
+  },
+  "listen.you": {
+    "t": "きいてみて！きみの こえだよ！",
+    "a": "assets/audio/ja/ui/listen_you.mp3"
+  },
+  "say.again": {
+    "t": "もういちど いっしょに いってみよう！",
+    "a": "assets/audio/ja/ui/say_again.mp3"
+  },
+  "parent.mic": {
+    "t": "マイク：自分の声を聞き返せます（録音は保存されません）"
+  },
+  "parent.on": {
+    "t": "オン"
+  },
+  "parent.off": {
+    "t": "オフ"
+  },
+  "parent.micHttps": {
+    "t": "https のアドレスで開いたときのみ使えます"
+  }
+}

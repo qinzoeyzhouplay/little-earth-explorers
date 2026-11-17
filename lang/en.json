@@ -1,0 +1,241 @@
+{
+  "title": {
+    "t": "Little Earth Explorers",
+    "a": "assets/audio/en/ui/title.mp3"
+  },
+  "tutorial.tap": {
+    "t": "Tap the stars!",
+    "a": "assets/audio/en/ui/tutorial_tap.mp3"
+  },
+  "creator.color": {
+    "t": "Pick a color!",
+    "a": "assets/audio/en/ui/creator_color.mp3"
+  },
+  "creator.hat": {
+    "t": "Pick a hat!",
+    "a": "assets/audio/en/ui/creator_hat.mp3"
+  },
+  "creator.buddy": {
+    "t": "Pick a friend!",
+    "a": "assets/audio/en/ui/creator_buddy.mp3"
+  },
+  "map.where": {
+    "t": "Where shall we go?",
+    "a": "assets/audio/en/ui/map_where.mp3"
+  },
+  "map.locked": {
+    "t": "Coming soon!",
+    "a": "assets/audio/en/ui/map_locked.mp3"
+  },
+  "chapter.pick": {
+    "t": "Pick a game!",
+    "a": "assets/audio/en/ui/chapter_pick.mp3"
+  },
+  "level.collect": {
+    "t": "Catch them all!",
+    "a": "assets/audio/en/ui/level_collect.mp3"
+  },
+  "level.listen": {
+    "t": "Listen and tap!",
+    "a": "assets/audio/en/ui/level_listen.mp3"
+  },
+  "level.think": {
+    "t": "Time to think!",
+    "a": "assets/audio/en/ui/level_think.mp3"
+  },
+  "help.look": {
+    "t": "Look! This one.",
+    "a": "assets/audio/en/ui/help_look.mp3"
+  },
+  "say.it": {
+    "t": "Can you say it?",
+    "a": "assets/audio/en/ui/say_it.mp3"
+  },
+  "say.why": {
+    "t": "Tell me why!",
+    "a": "assets/audio/en/ui/say_why.mp3"
+  },
+  "praise.great": {
+    "t": "Great job!",
+    "a": "assets/audio/en/ui/praise_great.mp3"
+  },
+  "praise.think": {
+    "t": "Great thinking!",
+    "a": "assets/audio/en/ui/praise_think.mp3"
+  },
+  "reward.sticker": {
+    "t": "A new sticker!",
+    "a": "assets/audio/en/ui/reward_sticker.mp3"
+  },
+  "levelup": {
+    "t": "Level up!",
+    "a": "assets/audio/en/ui/levelup.mp3"
+  },
+  "skill.jump": {
+    "t": "You can jump higher!",
+    "a": "assets/audio/en/ui/skill_jump.mp3"
+  },
+  "skill.magnifier": {
+    "t": "You got a magnifier!",
+    "a": "assets/audio/en/ui/skill_magnifier.mp3"
+  },
+  "skill.fly": {
+    "t": "Now you can fly!",
+    "a": "assets/audio/en/ui/skill_fly.mp3"
+  },
+  "stickers": {
+    "t": "My stickers",
+    "a": "assets/audio/en/ui/stickers.mp3"
+  },
+  "karaoke": {
+    "t": "Sing along!",
+    "a": "assets/audio/en/ui/karaoke.mp3"
+  },
+  "card.title": {
+    "t": "My Explorer Card",
+    "a": "assets/audio/en/ui/card_title.mp3"
+  },
+  "sleepy": {
+    "t": "I am sleepy. See you tomorrow!",
+    "a": "assets/audio/en/ui/sleepy.mp3"
+  },
+  "parent.gate": {
+    "t": "Grown-ups only: what is {a} + {b}?"
+  },
+  "parent.minutes": {
+    "t": "Rest reminder (minutes)"
+  },
+  "parent.language": {
+    "t": "Instruction language"
+  },
+  "parent.testReminder": {
+    "t": "Test: show the reminder in 1 minute"
+  },
+  "parent.reset": {
+    "t": "Delete this explorer"
+  },
+  "parent.resetConfirm": {
+    "t": "Tap again to delete"
+  },
+  "parent.close": {
+    "t": "Done"
+  },
+  "parent.print": {
+    "t": "Print"
+  },
+  "ch1.title": {
+    "t": "Planet Earth",
+    "a": "assets/audio/en/ui/ch1_title.mp3"
+  },
+  "ch2.title": {
+    "t": "Volcanoes and Earthquakes",
+    "a": "assets/audio/en/ui/ch2_title.mp3"
+  },
+  "level.rap": {
+    "t": "Listen! Tap the picture!",
+    "a": "assets/audio/en/ui/level_rap.mp3"
+  },
+  "collect.order": {
+    "t": "Start from the Sun!",
+    "a": "assets/audio/en/ui/collect_order.mp3"
+  },
+  "ch1.finale": {
+    "t": "Our solar system!",
+    "a": "assets/audio/en/ui/ch1_finale.mp3"
+  },
+  "ch1.rap.1": {
+    "t": "Sun in the middle, big and bright,",
+    "a": "assets/audio/en/ui/ch1_rap_1.mp3"
+  },
+  "ch1.rap.2": {
+    "t": "Mercury zooms, left and right!",
+    "a": "assets/audio/en/ui/ch1_rap_2.mp3"
+  },
+  "ch1.rap.3": {
+    "t": "Venus is hot, hot, hot all day,",
+    "a": "assets/audio/en/ui/ch1_rap_3.mp3"
+  },
+  "ch1.rap.4": {
+    "t": "Earth is our home, where we play!",
+    "a": "assets/audio/en/ui/ch1_rap_4.mp3"
+  },
+  "ch1.rap.5": {
+    "t": "Mars is red, a dusty ball,",
+    "a": "assets/audio/en/ui/ch1_rap_5.mp3"
+  },
+  "ch1.rap.6": {
+    "t": "Jupiter's the biggest of them all!",
+    "a": "assets/audio/en/ui/ch1_rap_6.mp3"
+  },
+  "ch1.rap.7": {
+    "t": "Saturn wears a hat, a ring so wide,",
+    "a": "assets/audio/en/ui/ch1_rap_7.mp3"
+  },
+  "ch1.rap.8": {
+    "t": "Uranus is blue and rolls on its side!",
+    "a": "assets/audio/en/ui/ch1_rap_8.mp3"
+  },
+  "ch1.rap.9": {
+    "t": "Neptune's far, so cold and deep,",
+    "a": "assets/audio/en/ui/ch1_rap_9.mp3"
+  },
+  "ch1.rap.10": {
+    "t": "Night comes round, it's time to sleep!",
+    "a": "assets/audio/en/ui/ch1_rap_10.mp3"
+  },
+  "ch1.q1": {
+    "t": "Would you rather live on the Moon or slide on Saturn's ring?",
+    "a": "assets/audio/en/ui/ch1_q1.mp3"
+  },
+  "ch1.q1.a": {
+    "t": "Live on the Moon!",
+    "a": "assets/audio/en/ui/ch1_q1_a.mp3"
+  },
+  "ch1.q1.b": {
+    "t": "Slide on Saturn's ring!",
+    "a": "assets/audio/en/ui/ch1_q1_b.mp3"
+  },
+  "ch1.q2": {
+    "t": "Would you rather have day all the time or night all the time?",
+    "a": "assets/audio/en/ui/ch1_q2.mp3"
+  },
+  "ch1.q2.a": {
+    "t": "Day all the time!",
+    "a": "assets/audio/en/ui/ch1_q2_a.mp3"
+  },
+  "ch1.q2.b": {
+    "t": "Night all the time!",
+    "a": "assets/audio/en/ui/ch1_q2_b.mp3"
+  },
+  "ch1.hook.1": {
+    "t": "Round and round the Sun we go,",
+    "a": "assets/audio/en/ui/ch1_hook_1.mp3"
+  },
+  "ch1.hook.2": {
+    "t": "Eight little planets, go, go, go!",
+    "a": "assets/audio/en/ui/ch1_hook_2.mp3"
+  },
+  "parent.voice": {
+    "t": "Narrator voice (tap to hear)"
+  },
+  "listen.you": {
+    "t": "Listen! That's you!",
+    "a": "assets/audio/en/ui/listen_you.mp3"
+  },
+  "say.again": {
+    "t": "Let's try again! Say it with me.",
+    "a": "assets/audio/en/ui/say_again.mp3"
+  },
+  "parent.mic": {
+    "t": "Microphone: kids hear their own voice (nothing is saved)"
+  },
+  "parent.on": {
+    "t": "On"
+  },
+  "parent.off": {
+    "t": "Off"
+  },
+  "parent.micHttps": {
+    "t": "Needs an https address to work"
+  }
+}

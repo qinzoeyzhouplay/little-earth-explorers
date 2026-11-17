@@ -1,0 +1,192 @@
+{
+  "colors": [
+    "#f28b66",
+    "#f9c74f",
+    "#a3d39c",
+    "#8ecae6",
+    "#c9b1e8",
+    "#f7b2bd"
+  ],
+  "explorerBody": "assets/img/explorer/body.svg",
+  "hats": [
+    {
+      "id": "hat_1",
+      "img": "assets/img/hats/hat_1.png"
+    },
+    {
+      "id": "hat_2",
+      "img": "assets/img/hats/hat_2.png"
+    },
+    {
+      "id": "hat_3",
+      "img": "assets/img/hats/hat_3.png"
+    },
+    {
+      "id": "hat_4",
+      "img": "assets/img/hats/hat_4.png"
+    },
+    {
+      "id": "hat_5",
+      "img": "assets/img/hats/hat_5.png"
+    },
+    {
+      "id": "hat_6",
+      "img": "assets/img/hats/hat_6.png"
+    }
+  ],
+  "buddies": [
+    {
+      "id": "buddy_1",
+      "img": "assets/img/buddies/kitten.png"
+    },
+    {
+      "id": "buddy_2",
+      "img": "assets/img/buddies/pumpkin.png"
+    },
+    {
+      "id": "buddy_3",
+      "img": "assets/img/buddies/gingerbread.png"
+    },
+    {
+      "id": "buddy_4",
+      "img": "assets/img/buddies/bunny.png"
+    },
+    {
+      "id": "buddy_5",
+      "img": "assets/img/buddies/pup.png"
+    },
+    {
+      "id": "buddy_6",
+      "img": "assets/img/buddies/penguin.png"
+    }
+  ],
+  "skills": {
+    "jump": {
+      "img": "assets/img/ui/skill_jump.png",
+      "text": "skill.jump"
+    },
+    "magnifier": {
+      "img": "assets/img/ui/skill_magnifier.png",
+      "text": "skill.magnifier"
+    },
+    "fly": {
+      "img": "assets/img/ui/skill_fly.png",
+      "text": "skill.fly"
+    }
+  },
+  "levelIcons": {
+    "collect": "assets/img/ui/collect.png",
+    "listen": "assets/img/ui/ear.png",
+    "rap": "assets/img/ui/note.png",
+    "think": "assets/img/ui/think.png"
+  },
+  "levelIntro": {
+    "collect": "level.collect",
+    "listen": "level.listen",
+    "rap": "level.rap",
+    "think": "level.think"
+  },
+  "ui": {
+    "hand": "assets/img/ui/hand.png",
+    "speaker": "assets/img/ui/speaker.png",
+    "star": "assets/img/ui/star.png",
+    "starOff": "assets/img/ui/star_off.png",
+    "lock": "assets/img/ui/lock.png",
+    "play": "assets/img/ui/play.png",
+    "home": "assets/img/ui/home.png",
+    "book": "assets/img/ui/book.png",
+    "mouth": "assets/img/ui/mouth.png",
+    "gear": "assets/img/ui/gear.png",
+    "card": "assets/img/ui/card.png",
+    "paint": "assets/img/ui/paint.png",
+    "back": "assets/img/ui/back.png",
+    "moon": "assets/img/ui/moon.png",
+    "rain": "assets/img/ui/rain.png",
+    "note": "assets/img/ui/note.png",
+    "ear": "assets/img/ui/ear.png",
+    "rainbow": "assets/img/ui/rainbow.png",
+    "tree": "assets/img/ui/tree.png",
+    "logo": "assets/img/words/earth.png",
+    "cloud": "assets/img/ui/cloud.png",
+    "mic": "assets/img/ui/mic.png",
+    "next": "assets/img/ui/next.png",
+    "song": "assets/img/ui/song.png"
+  },
+  "sfx": {
+    "pop": "assets/audio/sfx/pop.mp3",
+    "ding": "assets/audio/sfx/ding.mp3",
+    "star": "assets/audio/sfx/star.mp3",
+    "tap": "assets/audio/sfx/tap.mp3",
+    "levelup": "assets/audio/sfx/levelup.mp3",
+    "yawn": "assets/audio/sfx/yawn.mp3"
+  },
+  "bgm": "assets/audio/bgm.mp3",
+  "volumes": {
+    "voice": 1.0,
+    "sfx": 0.5,
+    "song": 0.45,
+    "bgm": 0.12
+  },
+  "screenTime": {
+    "defaultMinutes": 30,
+    "testMinutes": 1,
+    "choices": [
+      15,
+      30,
+      45,
+      60
+    ]
+  },
+  "languages": [
+    "en",
+    "ja",
+    "zh",
+    "pt-BR"
+  ],
+  "ttsLang": {
+    "en": "en-US",
+    "ja": "ja-JP",
+    "zh": "zh-CN",
+    "pt-BR": "pt-BR"
+  },
+  "weather": [
+    {
+      "id": "day",
+      "icon": "assets/img/words/sun.png",
+      "word": "sunny",
+      "audio": "assets/audio/en/sunny.mp3"
+    },
+    {
+      "id": "night",
+      "icon": "assets/img/ui/moon.png",
+      "word": "night",
+      "audio": "assets/audio/en/night.mp3"
+    },
+    {
+      "id": "rain",
+      "icon": "assets/img/ui/rain.png",
+      "word": "rainy",
+      "audio": "assets/audio/en/rainy.mp3"
+    },
+    {
+      "id": "snow",
+      "icon": "assets/img/ui/snow.png",
+      "word": "snowy",
+      "audio": "assets/audio/en/snowy.mp3"
+    }
+  ],
+  "voicePreference": [
+    "Ava",
+    "Samantha",
+    "Zoe",
+    "Allison",
+    "Nicky",
+    "Susan",
+    "Karen",
+    "Moira",
+    "Serena",
+    "Aria",
+    "Jenny",
+    "Google US English"
+  ]
+}

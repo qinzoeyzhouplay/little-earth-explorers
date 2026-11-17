@@ -1,0 +1,390 @@
+[
+  {
+    "id": "ch1",
+    "title": "ch1.title",
+    "icon": "assets/img/words/earth.png",
+    "theme": {
+      "bg": "#3d3a73",
+      "bg2": "#5a548f",
+      "dark": true
+    },
+    "mapPos": {
+      "x": 30,
+      "y": 56
+    },
+    "keywords": [
+      {
+        "id": "earth",
+        "word": "Earth",
+        "img": "assets/img/words/earth.png",
+        "audio": "assets/audio/en/earth.mp3"
+      },
+      {
+        "id": "sun",
+        "word": "Sun",
+        "img": "assets/img/words/sun.png",
+        "audio": "assets/audio/en/sun.mp3"
+      },
+      {
+        "id": "planet",
+        "word": "planet",
+        "img": "assets/img/words/planet.png",
+        "audio": "assets/audio/en/planet.mp3"
+      },
+      {
+        "id": "space",
+        "word": "space",
+        "img": "assets/img/words/space.png",
+        "audio": "assets/audio/en/space.mp3"
+      },
+      {
+        "id": "water",
+        "word": "water",
+        "img": "assets/img/words/water.png",
+        "audio": "assets/audio/en/water.mp3"
+      },
+      {
+        "id": "land",
+        "word": "land",
+        "img": "assets/img/words/land.png",
+        "audio": "assets/audio/en/land.mp3"
+      },
+      {
+        "id": "ice",
+        "word": "ice",
+        "img": "assets/img/words/ice.png",
+        "audio": "assets/audio/en/ice.mp3"
+      },
+      {
+        "id": "day",
+        "word": "day",
+        "img": "assets/img/words/day.png",
+        "audio": "assets/audio/en/day.mp3"
+      },
+      {
+        "id": "night",
+        "word": "night",
+        "img": "assets/img/words/night.png",
+        "audio": "assets/audio/en/night.mp3"
+      },
+      {
+        "id": "spin",
+        "word": "spin",
+        "img": "assets/img/words/spin.png",
+        "audio": "assets/audio/en/spin.mp3"
+      },
+      {
+        "id": "mercury",
+        "word": "Mercury",
+        "img": "assets/img/words/mercury.png",
+        "audio": "assets/audio/en/mercury.mp3"
+      },
+      {
+        "id": "venus",
+        "word": "Venus",
+        "img": "assets/img/words/venus.png",
+        "audio": "assets/audio/en/venus.mp3"
+      },
+      {
+        "id": "mars",
+        "word": "Mars",
+        "img": "assets/img/words/mars.png",
+        "audio": "assets/audio/en/mars.mp3"
+      },
+      {
+        "id": "jupiter",
+        "word": "Jupiter",
+        "img": "assets/img/words/jupiter.png",
+        "audio": "assets/audio/en/jupiter.mp3"
+      },
+      {
+        "id": "saturn",
+        "word": "Saturn",
+        "img": "assets/img/words/saturn.png",
+        "audio": "assets/audio/en/saturn.mp3"
+      },
+      {
+        "id": "uranus",
+        "word": "Uranus",
+        "img": "assets/img/words/uranus.png",
+        "audio": "assets/audio/en/uranus.mp3"
+      },
+      {
+        "id": "neptune",
+        "word": "Neptune",
+        "img": "assets/img/words/neptune.png",
+        "audio": "assets/audio/en/neptune.mp3"
+      }
+    ],
+    "introWords": [
+      "earth",
+      "sun",
+      "planet"
+    ],
+    "levels": [
+      {
+        "id": "ch1_collect",
+        "type": "collect",
+        "params": {
+          "words": [
+            "sun",
+            "mercury",
+            "venus",
+            "earth",
+            "mars",
+            "jupiter",
+            "saturn",
+            "uranus",
+            "neptune"
+          ],
+          "speed": 300,
+          "orderedOnReplay": true,
+          "finale": {
+            "orbits": true,
+            "text": "ch1.finale"
+          }
+        },
+        "icon": "assets/img/ui/icon_catch.png"
+      },
+      {
+        "id": "ch1_rap",
+        "type": "rap",
+        "params": {}
+      },
+      {
+        "id": "ch1_think",
+        "type": "think",
+        "params": {},
+        "icon": "assets/img/ui/icon_choose.png"
+      }
+    ],
+    "song": {
+      "audio": "assets/audio/songs/ch1_song.mp3",
+      "beat": "assets/audio/songs/ch1_beat.wav",
+      "bpm": 100,
+      "beatsPerLine": 4,
+      "lines": [
+        {
+          "text": "ch1.rap.1",
+          "word": "sun"
+        },
+        {
+          "text": "ch1.rap.2",
+          "word": "mercury"
+        },
+        {
+          "text": "ch1.rap.3",
+          "word": "venus"
+        },
+        {
+          "text": "ch1.rap.4",
+          "word": "earth"
+        },
+        {
+          "text": "ch1.rap.5",
+          "word": "mars"
+        },
+        {
+          "text": "ch1.rap.6",
+          "word": "jupiter"
+        },
+        {
+          "text": "ch1.rap.7",
+          "word": "saturn"
+        },
+        {
+          "text": "ch1.rap.8",
+          "word": "uranus"
+        },
+        {
+          "text": "ch1.rap.9",
+          "word": "neptune"
+        },
+        {
+          "text": "ch1.rap.10",
+          "word": "night"
+        }
+      ],
+      "lineTimes": [
+        5.0,
+        7.4,
+        9.8,
+        12.2,
+        14.6,
+        17.0,
+        19.4,
+        21.8,
+        24.2,
+        26.6,
+        29.0
+      ],
+      "extraLines": [
+        {
+          "time": 0.3,
+          "text": "ch1.hook.1"
+        },
+        {
+          "time": 2.7,
+          "text": "ch1.hook.2"
+        },
+        {
+          "time": 29.1,
+          "text": "ch1.hook.1"
+        },
+        {
+          "time": 31.5,
+          "text": "ch1.hook.2"
+        }
+      ],
+      "scene": {
+        "type": "orbits",
+        "centre": "sun",
+        "bodies": [
+          "mercury",
+          "venus",
+          "earth",
+          "mars",
+          "jupiter",
+          "saturn",
+          "uranus",
+          "neptune"
+        ]
+      }
+    },
+    "stickers": [
+      "sun",
+      "saturn",
+      "earth",
+      "uranus",
+      "jupiter",
+      "night"
+    ],
+    "skill": "jump",
+    "openQuestions": [
+      {
+        "text": "ch1.q1",
+        "choices": [
+          {
+            "id": "moon",
+            "img": "assets/img/words/scene_moon.png",
+            "text": "ch1.q1.a"
+          },
+          {
+            "id": "ring",
+            "img": "assets/img/words/scene_ring.png",
+            "text": "ch1.q1.b"
+          }
+        ]
+      },
+      {
+        "text": "ch1.q2",
+        "choices": [
+          {
+            "id": "day",
+            "img": "assets/img/words/day.png",
+            "text": "ch1.q2.a"
+          },
+          {
+            "id": "night",
+            "img": "assets/img/words/night.png",
+            "text": "ch1.q2.b"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ch2",
+    "title": "ch2.title",
+    "icon": "assets/img/words/volcano.png",
+    "theme": {
+      "bg": "#ffe3c2",
+      "bg2": "#ffd0a6",
+      "dark": false
+    },
+    "mapPos": {
+      "x": 68,
+      "y": 40
+    },
+    "comingSoon": true,
+    "keywords": [
+      {
+        "id": "volcano",
+        "word": "volcano",
+        "img": "assets/img/words/volcano.png",
+        "audio": "assets/audio/en/volcano.mp3"
+      },
+      {
+        "id": "earthquake",
+        "word": "earthquake",
+        "img": "assets/img/words/earthquake.png",
+        "audio": "assets/audio/en/earthquake.mp3"
+      },
+      {
+        "id": "lava",
+        "word": "lava",
+        "img": "assets/img/words/lava.png",
+        "audio": "assets/audio/en/lava.mp3"
+      },
+      {
+        "id": "rock",
+        "word": "rock",
+        "img": "assets/img/words/rock.png",
+        "audio": "assets/audio/en/rock.mp3"
+      },
+      {
+        "id": "ground",
+        "word": "ground",
+        "img": "assets/img/words/ground.png",
+        "audio": "assets/audio/en/ground.mp3"
+      },
+      {
+        "id": "plate",
+        "word": "plate",
+        "img": "assets/img/words/plate.png",
+        "audio": "assets/audio/en/plate.mp3"
+      },
+      {
+        "id": "spark",
+        "word": "spark",
+        "img": "assets/img/words/spark.png",
+        "audio": "assets/audio/en/spark.mp3"
+      },
+      {
+        "id": "hot",
+        "word": "hot",
+        "img": "assets/img/words/hot.png",
+        "audio": "assets/audio/en/hot.mp3"
+      },
+      {
+        "id": "geyser",
+        "word": "geyser",
+        "img": "assets/img/words/geyser.png",
+        "audio": "assets/audio/en/geyser.mp3"
+      },
+      {
+        "id": "safe",
+        "word": "safe",
+        "img": "assets/img/words/safe.png",
+        "audio": "assets/audio/en/safe.mp3"
+      }
+    ],
+    "introWords": [
+      "volcano",
+      "earthquake",
+      "lava"
+    ],
+    "levels": [],
+    "song": null,
+    "stickers": [
+      "volcano",
+      "earthquake",
+      "lava",
+      "rock",
+      "geyser",
+      "safe"
+    ],
+    "skill": "magnifier",
+    "openQuestions": []
+  }
+]

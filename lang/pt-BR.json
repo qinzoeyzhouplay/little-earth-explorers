@@ -1,0 +1,153 @@
+{
+  "tutorial.tap": {
+    "t": "Toque nas estrelas!",
+    "a": "assets/audio/pt-BR/ui/tutorial_tap.mp3"
+  },
+  "creator.color": {
+    "t": "Escolha uma cor!",
+    "a": "assets/audio/pt-BR/ui/creator_color.mp3"
+  },
+  "creator.hat": {
+    "t": "Escolha um chapéu!",
+    "a": "assets/audio/pt-BR/ui/creator_hat.mp3"
+  },
+  "creator.buddy": {
+    "t": "Escolha um amigo!",
+    "a": "assets/audio/pt-BR/ui/creator_buddy.mp3"
+  },
+  "map.where": {
+    "t": "Aonde vamos?",
+    "a": "assets/audio/pt-BR/ui/map_where.mp3"
+  },
+  "map.locked": {
+    "t": "Em breve!",
+    "a": "assets/audio/pt-BR/ui/map_locked.mp3"
+  },
+  "chapter.pick": {
+    "t": "Escolha um jogo!",
+    "a": "assets/audio/pt-BR/ui/chapter_pick.mp3"
+  },
+  "level.collect": {
+    "t": "Pegue todos!",
+    "a": "assets/audio/pt-BR/ui/level_collect.mp3"
+  },
+  "level.listen": {
+    "t": "Escute e toque!",
+    "a": "assets/audio/pt-BR/ui/level_listen.mp3"
+  },
+  "level.think": {
+    "t": "Hora de pensar!",
+    "a": "assets/audio/pt-BR/ui/level_think.mp3"
+  },
+  "help.look": {
+    "t": "Olha! É este.",
+    "a": "assets/audio/pt-BR/ui/help_look.mp3"
+  },
+  "say.it": {
+    "t": "Você consegue falar?",
+    "a": "assets/audio/pt-BR/ui/say_it.mp3"
+  },
+  "say.why": {
+    "t": "Me conta por quê!",
+    "a": "assets/audio/pt-BR/ui/say_why.mp3"
+  },
+  "praise.great": {
+    "t": "Muito bem!",
+    "a": "assets/audio/pt-BR/ui/praise_great.mp3"
+  },
+  "praise.think": {
+    "t": "Que boa ideia!",
+    "a": "assets/audio/pt-BR/ui/praise_think.mp3"
+  },
+  "reward.sticker": {
+    "t": "Um adesivo novo!",
+    "a": "assets/audio/pt-BR/ui/reward_sticker.mp3"
+  },
+  "levelup": {
+    "t": "Subiu de nível!",
+    "a": "assets/audio/pt-BR/ui/levelup.mp3"
+  },
+  "skill.jump": {
+    "t": "Você pula mais alto!",
+    "a": "assets/audio/pt-BR/ui/skill_jump.mp3"
+  },
+  "skill.magnifier": {
+    "t": "Você ganhou uma lupa!",
+    "a": "assets/audio/pt-BR/ui/skill_magnifier.mp3"
+  },
+  "skill.fly": {
+    "t": "Agora você voa!",
+    "a": "assets/audio/pt-BR/ui/skill_fly.mp3"
+  },
+  "stickers": {
+    "t": "Meus adesivos",
+    "a": "assets/audio/pt-BR/ui/stickers.mp3"
+  },
+  "karaoke": {
+    "t": "Cante junto!",
+    "a": "assets/audio/pt-BR/ui/karaoke.mp3"
+  },
+  "card.title": {
+    "t": "Meu cartão de explorador",
+    "a": "assets/audio/pt-BR/ui/card_title.mp3"
+  },
+  "sleepy": {
+    "t": "Estou com sono. Até amanhã!",
+    "a": "assets/audio/pt-BR/ui/sleepy.mp3"
+  },
+  "parent.gate": {
+    "t": "Só adultos: quanto é {a} + {b}?"
+  },
+  "parent.minutes": {
+    "t": "Lembrete de descanso (minutos)"
+  },
+  "parent.language": {
+    "t": "Idioma das instruções"
+  },
+  "parent.testReminder": {
+    "t": "Teste: mostrar o lembrete em 1 minuto"
+  },
+  "parent.reset": {
+    "t": "Apagar este explorador"
+  },
+  "parent.resetConfirm": {
+    "t": "Toque de novo para apagar"
+  },
+  "parent.close": {
+    "t": "Pronto"
+  },
+  "parent.print": {
+    "t": "Imprimir"
+  },
+  "level.rap": {
+    "t": "Escute! Toque na figura!",
+    "a": "assets/audio/pt-BR/ui/level_rap.mp3"
+  },
+  "collect.order": {
+    "t": "Comece pelo Sol!",
+    "a": "assets/audio/pt-BR/ui/collect_order.mp3"
+  },
+  "parent.voice": {
+    "t": "Voz do narrador (toque para ouvir)"
+  },
+  "listen.you": {
+    "t": "Escute! É você!",
+    "a": "assets/audio/pt-BR/ui/listen_you.mp3"
+  },
+  "say.again": {
+    "t": "Vamos tentar de novo! Fale comigo.",
+    "a": "assets/audio/pt-BR/ui/say_again.mp3"
+  },
+  "parent.mic": {
+    "t": "Microfone: a criança ouve a própria voz (nada é salvo)"
+  },
+  "parent.on": {
+    "t": "Ligado"
+  },
+  "parent.off": {
+    "t": "Desligado"
+  },
+  "parent.micHttps": {
+    "t": "Precisa de um endereço https"
+  }
+}

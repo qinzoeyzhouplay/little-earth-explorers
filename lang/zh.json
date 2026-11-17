@@ -1,0 +1,153 @@
+{
+  "tutorial.tap": {
+    "t": "点一点星星！",
+    "a": "assets/audio/zh/ui/tutorial_tap.mp3"
+  },
+  "creator.color": {
+    "t": "选一个颜色！",
+    "a": "assets/audio/zh/ui/creator_color.mp3"
+  },
+  "creator.hat": {
+    "t": "选一顶帽子！",
+    "a": "assets/audio/zh/ui/creator_hat.mp3"
+  },
+  "creator.buddy": {
+    "t": "选一个朋友！",
+    "a": "assets/audio/zh/ui/creator_buddy.mp3"
+  },
+  "map.where": {
+    "t": "我们去哪里？",
+    "a": "assets/audio/zh/ui/map_where.mp3"
+  },
+  "map.locked": {
+    "t": "马上就能玩啦！",
+    "a": "assets/audio/zh/ui/map_locked.mp3"
+  },
+  "chapter.pick": {
+    "t": "选一个游戏！",
+    "a": "assets/audio/zh/ui/chapter_pick.mp3"
+  },
+  "level.collect": {
+    "t": "全部收集起来！",
+    "a": "assets/audio/zh/ui/level_collect.mp3"
+  },
+  "level.listen": {
+    "t": "听一听，点一点！",
+    "a": "assets/audio/zh/ui/level_listen.mp3"
+  },
+  "level.think": {
+    "t": "想一想！",
+    "a": "assets/audio/zh/ui/level_think.mp3"
+  },
+  "help.look": {
+    "t": "看！是这个。",
+    "a": "assets/audio/zh/ui/help_look.mp3"
+  },
+  "say.it": {
+    "t": "你会说吗？",
+    "a": "assets/audio/zh/ui/say_it.mp3"
+  },
+  "say.why": {
+    "t": "告诉我为什么！",
+    "a": "assets/audio/zh/ui/say_why.mp3"
+  },
+  "praise.great": {
+    "t": "真棒！",
+    "a": "assets/audio/zh/ui/praise_great.mp3"
+  },
+  "praise.think": {
+    "t": "想得真好！",
+    "a": "assets/audio/zh/ui/praise_think.mp3"
+  },
+  "reward.sticker": {
+    "t": "一张新贴纸！",
+    "a": "assets/audio/zh/ui/reward_sticker.mp3"
+  },
+  "levelup": {
+    "t": "升级啦！",
+    "a": "assets/audio/zh/ui/levelup.mp3"
+  },
+  "skill.jump": {
+    "t": "你能跳得更高了！",
+    "a": "assets/audio/zh/ui/skill_jump.mp3"
+  },
+  "skill.magnifier": {
+    "t": "你有放大镜了！",
+    "a": "assets/audio/zh/ui/skill_magnifier.mp3"
+  },
+  "skill.fly": {
+    "t": "你会飞了！",
+    "a": "assets/audio/zh/ui/skill_fly.mp3"
+  },
+  "stickers": {
+    "t": "我的贴纸",
+    "a": "assets/audio/zh/ui/stickers.mp3"
+  },
+  "karaoke": {
+    "t": "一起唱！",
+    "a": "assets/audio/zh/ui/karaoke.mp3"
+  },
+  "card.title": {
+    "t": "我的探险家卡",
+    "a": "assets/audio/zh/ui/card_title.mp3"
+  },
+  "sleepy": {
+    "t": "我困了，明天见！",
+    "a": "assets/audio/zh/ui/sleepy.mp3"
+  },
+  "parent.gate": {
+    "t": "家长验证：{a} + {b} 等于几？"
+  },
+  "parent.minutes": {
+    "t": "休息提醒（分钟）"
+  },
+  "parent.language": {
+    "t": "提示语言"
+  },
+  "parent.testReminder": {
+    "t": "测试：1 分钟后显示提醒"
+  },
+  "parent.reset": {
+    "t": "删除这个探险家"
+  },
+  "parent.resetConfirm": {
+    "t": "再点一次确认删除"
+  },
+  "parent.close": {
+    "t": "完成"
+  },
+  "parent.print": {
+    "t": "打印"
+  },
+  "level.rap": {
+    "t": "听一听，点图片！",
+    "a": "assets/audio/zh/ui/level_rap.mp3"
+  },
+  "collect.order": {
+    "t": "从太阳开始，按顺序！",
+    "a": "assets/audio/zh/ui/collect_order.mp3"
+  },
+  "parent.voice": {
+    "t": "旁白声音（点一下试听）"
+  },
+  "listen.you": {
+    "t": "听！这是你的声音！",
+    "a": "assets/audio/zh/ui/listen_you.mp3"
+  },
+  "say.again": {
+    "t": "我们再试一次！跟我一起说。",
+    "a": "assets/audio/zh/ui/say_again.mp3"
+  },
+  "parent.mic": {
+    "t": "麦克风：孩子可以听到自己的声音（录音不会保存）"
+  },
+  "parent.on": {
+    "t": "开"
+  },
+  "parent.off": {
+    "t": "关"
+  },
+  "parent.micHttps": {
+    "t": "需要用 https 网址打开才能使用"
+  }
+}
